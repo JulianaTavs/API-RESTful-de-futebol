@@ -1,0 +1,6 @@
+@API_RESTful_de_futebol_HostAddress = http://localhost:5142
+
+GET {{API_RESTful_de_futebol_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
