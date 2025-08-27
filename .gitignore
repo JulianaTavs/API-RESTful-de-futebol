@@ -1,0 +1,62 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.pdb
+*.obj
+*.o
+*.lib
+*.ncb
+*.tlog
+*.idb
+*.res
+*.sbr
+*.ilk
+*.aps
+*.bsc
+*.scc
+*.vssscc
+
+# Projects
+[Bb]in/
+[Oo]bj/
+.gradle/
+.mono/
+*.xproj
+*.vsix
+.vsixmanifest
+
+# Package Manager
+[Pp]ackages/
+*.nupkg
+*.nuspec
+*.cache
+*.vsct
+*.vshost.*
+
+# NuGet
+*.lock.json
+*.nuget.targets
+
+# Logs
+log/
+*.log
+
+# Temp
+temp/
+*.tmp
+
+# SQL Server
+*.mdf
+*.ldf
+
+# Local Configuration
+appsettings.Development.json
+appsettings.Local.json
