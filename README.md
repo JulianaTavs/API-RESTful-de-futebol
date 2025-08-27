@@ -19,10 +19,8 @@ Configuração
 
     Clone o Repositório:
 
-    git clone https://github.com/SEU_USUARIO/API-RESTful-de-futebol.git
+    git clone https://github.com/JulianaTavs/API-RESTful-de-futebol.git
     cd API-RESTful-de-futebol
-
-    Substitua SEU_USUARIO pelo seu nome de usuário do GitHub.
 
     Configure a Conexão com o Banco de Dados:
     Abra o arquivo appsettings.json e atualize a DefaultConnection com as suas informações de conexão do SQL Server.
