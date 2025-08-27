@@ -1,7 +1,9 @@
 API RESTful de Futebol
+
 ⚽ Visão Geral do Projeto
 
 Esta é uma API de futebol construída em .NET 8 que consome dados da API TheSportsDB. A aplicação foi projetada para buscar informações de times e ligas, persistir esses dados em um banco de dados SQL Server e expor endpoints RESTful para consulta.
+
 🚀 Como Rodar a Aplicação
 
 Siga os passos abaixo para clonar o projeto e executá-lo em sua máquina local.
