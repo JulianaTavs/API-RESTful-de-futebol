@@ -7,6 +7,7 @@ Esta é uma API de futebol construída em .NET 8 que consome dados da API TheSpo
 🚀 Como Rodar a Aplicação
 
 Siga os passos abaixo para clonar o projeto e executá-lo em sua máquina local.
+
 Pré-requisitos
 
 Certifique-se de ter as seguintes ferramentas instaladas:
