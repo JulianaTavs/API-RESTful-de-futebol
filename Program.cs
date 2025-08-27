@@ -1,3 +1,4 @@
+using API_RESTful_de_futebol.Services;
 using API_RESTful_de_futebol.Data;
 using Microsoft.EntityFrameworkCore;
 
@@ -9,6 +10,10 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<FootballDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddHttpClient<FootballDataService>();
+
+builder.Services.AddScoped<FootballDataService>();
 
 var app = builder.Build();
 
