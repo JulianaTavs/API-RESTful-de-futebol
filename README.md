@@ -46,4 +46,4 @@ Configuração
 
 Os dados desta API são obtidos e manipulados através da API gratuita da TheSportsDB. Você pode encontrar a documentação completa e informações sobre a chave da API em:
 
-    TheSportsDB API Documentation
+    TheSportsDB API Documentation: https://www.thesportsdb.com/api.php
